@@ -1,0 +1,23 @@
+{
+  "name": "iss_spotter",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kevinzhu2019/iss_spotter.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/kevinzhu2019/iss_spotter/issues"
+  },
+  "homepage": "https://github.com/kevinzhu2019/iss_spotter#readme",
+  "dependencies": {
+    "request": "^2.88.0",
+    "require": "^2.4.20"
+  }
+}
